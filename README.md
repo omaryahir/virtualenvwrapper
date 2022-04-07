@@ -19,7 +19,7 @@ This is just to emulate the basic behavior since I was having a lot of problems 
     ```
     export WORKON_HOME=$HOME/.virtualenvs
     export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3.8
-    eval "$(python3.8 ~/Documents/repos/virtualenvwrapper/generate_alias.py)"
+    source ~/Documents/repos/virtualenvwrapper/setup.sh
     ```
 
 ## Commands:
