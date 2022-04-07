@@ -34,8 +34,8 @@ myenv
 
 # use a current environment
 $ workon myenv
-myenv ▒ ~/Document/repos $
+myenv ▒ ~/Documents/repos $
 
 # deactivate environment
-myenv ▒ ~/Document/repos $ deactivate
+myenv ▒ ~/Documents/repos $ deactivate
 ```
